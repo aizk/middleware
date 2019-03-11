@@ -1,4 +1,4 @@
-package mid
+package middleware
 
 // func
 type HandlerFunc func(*Context)
